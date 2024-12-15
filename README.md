@@ -75,7 +75,7 @@ The chatbot searches for keywords and replies accordingly. The followinf keyword
 3.mail/email + unseen : This gets the latest  unseen emails
  
 
- ![image alt]()
+ ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/0d8ecea40fe43bd103a9b019daca37eff433b990/Screenshot%202024-12-16%20013702.png)
 3.Hello/Hey : This just greets you and asks if you want to get mails. If you type es then it fetches the mails.
   ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/f8a68fff3264c7f7d02a69d11179b798ca67d457/Screenshot%202024-12-16%20013809.png)
 Future Plans
