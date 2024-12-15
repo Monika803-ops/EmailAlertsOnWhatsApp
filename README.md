@@ -35,7 +35,7 @@ Dependencies
 
 
                                               
- ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/59f34c4bc79548f476c44b682e02138300a3345f/Screenshot%202024-12-16%20024555.png) 
+ ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/66ac2beb80f0fdf041e3f1fd8d9dc0a02fb14026/Screenshot%202024-12-16%20025710.png) 
 
 
 
@@ -43,7 +43,6 @@ Dependencies
 
 
  
- [image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/5a380f3e61e50d0ebb5a37c6766cb8d4c67cf2d3/Screenshot%202024-12-16%20024651.png)
 
 
 
