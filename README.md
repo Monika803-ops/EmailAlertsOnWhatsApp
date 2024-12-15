@@ -35,7 +35,8 @@ Dependencies
 
 
                                               
- ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/f0045a48696f966dfbd3e31004ac15fbbbc635ef/Screenshot%202024-12-15%20230308.png) [image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/9a5b9ad9a04644e626307b226458d32d9ce9fb0a/dependencies%20phn%202.jpg)
+ ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/59f34c4bc79548f476c44b682e02138300a3345f/Screenshot%202024-12-16%20024555.png) 
+ [image alt]()
 
 
 6.Now go to settings->Environment Variables and then set emailID as your GMail id and passKey as your App Password(If you don't know about app passwords please read the pre-requistic paragraph above)
