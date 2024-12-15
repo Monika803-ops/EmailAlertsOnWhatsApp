@@ -3,8 +3,8 @@ exports.handler = async function (context, event, callback) {
     const twiml = new Twilio.twiml.MessagingResponse();
     const incomingMessage = event.Body.toLowerCase();
 
-    const emailID='monikanv123@gmail.com';
-    const passkey='xzlv jora gwbr bkxf';
+    const emailID='monikanv787@gmail.com'; // Add your Email here
+    const passkey='xyzf abcn bhya vlgf nnjm'; // Add your App Password here
 
     //message configurations
     var imaps = require('imap-simple');
@@ -25,7 +25,7 @@ exports.handler = async function (context, event, callback) {
 
     //if the message contains the word mail
     if (incomingMessage.includes("mail") || incomingMessage.includes("email") || incomingMessage.includes("yes")) {
-        twiml.message('monikanv123@gmail.com : ${emailID}');
+        twiml.message('monikanv787@gmail.com : ${emailID}'); // Add your email Here
         const result = await imaps.connect(config).then(function (connection) {
             console.log("connected");
 
@@ -65,8 +65,8 @@ exports.handler = async function (context, event, callback) {
 
                     //console.log(subjects);
                     for (let i = 0; i < subjects.length && i < 10; i++) {
-                        let currmail = `Sender: ${senders[i]} \n \n Subject: ${subjects[i]}`;
-                        //console.log(monikanv123@gmail.com);
+                        let currmail = `Sender: ${senders[i]} \n \n Subject: ${subjects[i]}`; // use backtics not a Single quote
+                        //console.log(monikanv787@gmail.com);
                         twiml.message(currmail);
 
                     }
