@@ -29,7 +29,7 @@ Dependencies
 
    Environment variables
  
- ![image alt]()
+ ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/96ef518906b8b5273cfb191f4b3c9ccb8a74d0a9/envi.jpg)
 7.Save and select Deploy all
 
  ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/75fa483eda19232897484b2ffe5b8514db908eba/deploy.png)
