@@ -43,7 +43,7 @@ The chatbot searches for keywords and replies accordingly. The followinf keyword
 
 1.Help : This gets the list of all keyword
  
- ![image alt]()
+ ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/de5e4b1aa9539fddb23c7266d59b09f0dea77b50/Screenshot%202024-12-16%20013146.png)
 
 2.mail/email : This gets the recent 5 emails
  
