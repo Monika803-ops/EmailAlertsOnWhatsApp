@@ -47,7 +47,7 @@ The chatbot searches for keywords and replies accordingly. The followinf keyword
 
 2.mail/email : This gets the recent 5 emails
  
- ![image alt]()
+ ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/53c93a12916214300f59eb5fb70cf756a2ab7482/Screenshot%202024-12-16%20013324.png)
 3.mail/email + unseen : This gets the latest  unseen emails
  
 
