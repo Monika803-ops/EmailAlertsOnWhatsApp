@@ -53,10 +53,10 @@ The chatbot searches for keywords and replies accordingly. The followinf keyword
 
  ![image alt]()
 3.Hello/Hey : This just greets you and asks if you want to get mails. If you type es then it fetches the mails.
-  ![image alt]()
+  ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/f8a68fff3264c7f7d02a69d11179b798ca67d457/Screenshot%202024-12-16%20013809.png)
 Future Plans
 1.Add more functionalities/options with the email type being queried
 2.Using some algorithm/AI to predict what the user is asking and reply accordingly. Currently it is hardcoded.
 3.Add more features apart from email fetching (like weather, film reviews/recommendations) and turn it into a whatsapp assistant.
 
-![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/51f6939ac590b13727fd4654428c1e556ef2c45c/Screenshot%202024-12-15%20225226.png)
+
