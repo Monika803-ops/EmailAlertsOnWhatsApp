@@ -32,7 +32,7 @@ Dependencies
  ![image alt]()
 7.Save and select Deploy all
 
- ![image alt]()
+ ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/75fa483eda19232897484b2ffe5b8514db908eba/deploy.png)
  
 8.Select the 'Copy URL' present just below the code editor to copy the link of the function after deploying.
 9.Now go to Programmable Messages->Settings->Whatsapp Sandbox Settings and paste the copied URL in step 8 into the 'WHEN A MESSAGE COMES IN' field in Sandbox Configuration
