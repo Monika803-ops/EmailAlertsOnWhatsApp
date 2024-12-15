@@ -22,7 +22,7 @@ Setup
 5,Inside the functions page, go to settings->Dependencies and make sure you have all the dependencies added as shown in the figure
 Dependencies
                                               
- ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/f0045a48696f966dfbd3e31004ac15fbbbc635ef/Screenshot%202024-12-15%20230308.png) [image alt](
+ ![image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/f0045a48696f966dfbd3e31004ac15fbbbc635ef/Screenshot%202024-12-15%20230308.png) [image alt](https://github.com/Monika803-ops/EmailAlertsOnWhatsApp/blob/9a5b9ad9a04644e626307b226458d32d9ce9fb0a/dependencies%20phn%202.jpg)
 
 
 6.Now go to settings->Environment Variables and then set emailID as your GMail id and passKey as your App Password(If you don't know about app passwords please read the pre-requistic paragraph above)
